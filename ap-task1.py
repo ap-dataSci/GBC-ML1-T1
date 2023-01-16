@@ -10,6 +10,7 @@ import re
 from bs4 import BeautifulSoup
 # Code ends here
 
+
 # function to get the html source text of the medium article
 def get_page():
 	global url
